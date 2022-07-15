@@ -1,0 +1,16 @@
+export default {
+    "login" : "LOGIN",
+    "logout": "LOGOUT",
+    "register": "REGISTER",
+    "userName" : "Enter UserName...",
+    "userEmail": "Enter UserEmail...",
+    "userPassword": "Enter UserPassword...",
+    "userConfirmPassword": "Enter UserConfirmPassword...",
+    "noAcc": "Don't have any account?",
+    "alreadyAcc": "Already have an account?",
+    "next": "NEXT",
+    "language": "Language",
+    "chooseLanguage": "Choose Language",
+    "eng": "English",
+    "mm": "Myanmar",
+}
